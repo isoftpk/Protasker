@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/EnterPays_addAtomPayment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="ADD"
+        android:textColor="#ffffff"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textSize="15dp"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:background="@drawable/add_button_selector"
+        />
+
+    <ListView
+        android:id="@+id/EnterPays_atomPaysList"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/EnterPays_addAtomPayment"
+        android:divider="#FFFFFF"
+        android:dividerHeight="1dp" />
+
+        <!--android:divider="@null"-->
+        <!--android:dividerHeight="0dp"-->
+
+</RelativeLayout>

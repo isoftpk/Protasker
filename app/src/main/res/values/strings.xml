@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Protasker</string>
+    <string name="EnterPays_atomPay_nameHint">Add ToDo here</string>
+    <string name="EnterPays_TextView_ZeroValue">0</string>
+    <string name="EnterPays_addPayment">Add Payment</string>
+    <string name="cab_delete">delete</string>
+
+</resources>
