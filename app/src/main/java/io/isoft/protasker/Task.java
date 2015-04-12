@@ -8,7 +8,8 @@ public class Task implements Serializable {
 	private String name = "";
 	private double value = 0;
 
-	public Task(String name, double value) {
+
+    public Task(String name, double value) {
 		this.setName(name);
 		this.setValue(value);
 	}
