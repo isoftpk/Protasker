@@ -8,15 +8,30 @@
     android:paddingRight="1dp" >
 
     <TextView
-        android:id="@+id/todo_comment"
+        android:id="@+id/view_task_item"
         android:layout_width="0sp"
         android:layout_height="fill_parent"
         android:layout_weight="2"
         android:paddingLeft="2dp"
         android:gravity="center_vertical"
-        android:hint="@string/EnterPays_atomPay_nameHint"
+        android:hint="@string/EnterTask_nameHint"
         android:textSize="15dp"
-        android:textColor="#000000"/>
+        android:textColor="#000000"
+        />
+
+    <EditText
+        android:id="@+id/edit_task_item"
+        android:layout_width="0sp"
+        android:layout_height="fill_parent"
+        android:layout_weight="2"
+        android:paddingLeft="2dp"
+        android:gravity="center_vertical"
+        android:hint="@string/EnterTask_nameHint"
+        android:textSize="15dp"
+        android:textColor="#000000"
+        android:visibility="gone"
+        />
+
 
     <!--<EditText-->
         <!--android:id="@+id/atomPay_value"-->
@@ -41,7 +56,7 @@
         <!--android:layout_height="fill_parent"-->
         <!--android:background="@drawable/del_button_selector"-->
         <!--android:contentDescription="@string/app_name"-->
-        <!--android:onClick="removeAtomPayOnClickHandler"-->
+        <!--android:onClick="removeTaskOnClickHandler"-->
         <!--/>-->
 
     <!--<ImageButton-->
@@ -49,7 +64,7 @@
         <!--android:layout_width="@dimen/width_button"-->
         <!--android:layout_height="fill_parent"-->
         <!--android:contentDescription="@string/app_name"-->
-        <!--android:onClick="removeAtomPayOnClickHandler"-->
+        <!--android:onClick="removeTaskOnClickHandler"-->
 
         <!--android:src="@android:drawable/ic_menu_close_clear_cancel" />-->
     <!--android:src="@android:drawable/ic_menu_delete" />-->

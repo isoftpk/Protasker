@@ -1322,8 +1322,8 @@ containing a value of this type.
         public static final int square_edittext_selector=0x7f020041;
     }
     public static final class id {
-        public static final int EnterPays_addAtomPayment=0x7f08003f;
-        public static final int EnterPays_atomPaysList=0x7f080040;
+        public static final int EnterTask_TaskList=0x7f080040;
+        public static final int EnterTask_addTask=0x7f08003f;
         public static final int action_bar=0x7f080031;
         public static final int action_bar_activity_content=0x7f080000;
         public static final int action_bar_container=0x7f080030;
@@ -1344,11 +1344,12 @@ containing a value of this type.
         public static final int collapseActionView=0x7f080017;
         public static final int decor_content_parent=0x7f08002f;
         public static final int default_activity_button=0x7f080024;
-        public static final int delete=0x7f080042;
+        public static final int delete=0x7f080043;
         public static final int dialog=0x7f08001b;
         public static final int disableHome=0x7f08000c;
         public static final int dropdown=0x7f08001c;
         public static final int edit_query=0x7f080033;
+        public static final int edit_task_item=0x7f080042;
         public static final int end=0x7f080014;
         public static final int expand_activities_button=0x7f080022;
         public static final int expanded_menu=0x7f080028;
@@ -1384,9 +1385,9 @@ containing a value of this type.
         public static final int submit_area=0x7f08003c;
         public static final int tabMode=0x7f08000b;
         public static final int title=0x7f080027;
-        public static final int todo_comment=0x7f080041;
         public static final int up=0x7f080008;
         public static final int useLogo=0x7f080012;
+        public static final int view_task_item=0x7f080041;
         public static final int withText=0x7f08001a;
         public static final int wrap_content=0x7f08001d;
     }
@@ -1419,16 +1420,16 @@ containing a value of this type.
         public static final int abc_search_view=0x7f030014;
         public static final int abc_simple_dropdown_hint=0x7f030015;
         public static final int activity_list_view=0x7f030016;
-        public static final int atom_pay_list_item=0x7f030017;
-        public static final int support_simple_spinner_dropdown_item=0x7f030018;
+        public static final int support_simple_spinner_dropdown_item=0x7f030017;
+        public static final int task_list_item=0x7f030018;
     }
     public static final class menu {
         public static final int activity_main=0x7f0c0000;
     }
     public static final class string {
-        public static final int EnterPays_TextView_ZeroValue=0x7f0a0000;
-        public static final int EnterPays_addPayment=0x7f0a0001;
-        public static final int EnterPays_atomPay_nameHint=0x7f0a0002;
+        public static final int EnterTask_TextView_ZeroValue=0x7f0a0000;
+        public static final int EnterTask_addTask=0x7f0a0001;
+        public static final int EnterTask_nameHint=0x7f0a0002;
         public static final int abc_action_bar_home_description=0x7f0a0003;
         public static final int abc_action_bar_home_description_format=0x7f0a0004;
         public static final int abc_action_bar_home_subtitle_description_format=0x7f0a0005;

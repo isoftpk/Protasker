@@ -11,7 +11,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.EditText;
 
 import android.widget.AbsListView.MultiChoiceModeListener;
 
@@ -27,22 +29,21 @@ public class AddNewTask extends ActionBarActivity  {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_list_view);
 
-        comment = new String[] { "China", "India", "United States",
-                "Indonesia", "Brazil", "Pakistan", "Nigeria", "Bangladesh",
-                "Russia", "Japan" };
+        comment = new String[] { "Task 1", "Task 2", "Task 3",
+                "Task 4", "Task 5", "Task 6", "Task 7", "Task 8",
+                "Task 9", "Task 10" };
 
         for (int i = 0; i < comment.length; i++) {
             Task todo = new Task(comment[i],i);
             lstTodo.add(todo);
         }
 
-
         setupListViewAdapter();
 		
-		setupAddPaymentButton();
+		setupAddTaskButton();
 	}
 
-	public void removeAtomPayOnClickHandler(View v) {
+	public void removeTaskOnClickHandler(View v) {
 		Task itemToRemove = (Task)v.getTag();
 		listviewadapter.remove(itemToRemove);
 	}
@@ -50,10 +51,10 @@ public class AddNewTask extends ActionBarActivity  {
 	private void setupListViewAdapter() {
 
         // Locate the ListView in listview_main.xml
-        list = (ListView)findViewById(R.id.EnterPays_atomPaysList);
+        list = (ListView)findViewById(R.id.EnterTask_TaskList);
 
         // Pass results to TaskListAdapter Class
-		listviewadapter = new TaskListAdapter(AddNewTask.this, R.layout.atom_pay_list_item, lstTodo);
+		listviewadapter = new TaskListAdapter(AddNewTask.this, R.layout.task_list_item, lstTodo);
 
         // Binds the Adapter to the ListView
 		list.setAdapter(listviewadapter);
@@ -112,16 +113,35 @@ public class AddNewTask extends ActionBarActivity  {
             }
 
         });
+
+        list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+
+
+                listviewadapter.holder.taskView.setVisibility(View.INVISIBLE);
+                listviewadapter.holder.taskEdit.setVisibility(View.VISIBLE);
+
+
+
+
+                System.out.println("Task Clicked!");
+            }
+        });
+
 	}
 	
-	private void setupAddPaymentButton() {
-		findViewById(R.id.EnterPays_addAtomPayment).setOnClickListener(new OnClickListener() {
+	private void setupAddTaskButton() {
+		findViewById(R.id.EnterTask_addTask).setOnClickListener(new OnClickListener() {
 			
 			@Override
 			public void onClick(View v) {
                 System.out.println("ADD Button Click");
-				listviewadapter.insert(new Task("this new todo", 0), 0);
+				listviewadapter.insert(new Task("Add Task", 0), 0);
 			}
 		});
 	}
+
+
+
 }

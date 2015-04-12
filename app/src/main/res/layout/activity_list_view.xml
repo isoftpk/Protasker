@@ -5,7 +5,7 @@
 
 
     <Button
-        android:id="@+id/EnterPays_addAtomPayment"
+        android:id="@+id/EnterTask_addTask"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
@@ -20,10 +20,10 @@
         />
 
     <ListView
-        android:id="@+id/EnterPays_atomPaysList"
+        android:id="@+id/EnterTask_TaskList"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/EnterPays_addAtomPayment"
+        android:layout_below="@+id/EnterTask_addTask"
         android:divider="#FFFFFF"
         android:dividerHeight="1dp" />
 

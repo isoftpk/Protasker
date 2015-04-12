@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 
 public class TaskListAdapter extends ArrayAdapter<Task> {
@@ -22,6 +23,7 @@ public class TaskListAdapter extends ArrayAdapter<Task> {
 	private Context context;
     LayoutInflater inflater;
     private SparseBooleanArray mSelectedItemsIds;
+    public ViewHolder holder;
 
 	public TaskListAdapter(Context context, int layoutResourceId, List<Task> items) {
 		super(context, layoutResourceId, items);
@@ -32,24 +34,33 @@ public class TaskListAdapter extends ArrayAdapter<Task> {
         inflater = LayoutInflater.from(context);
 	}
 
-    private class ViewHolder {
-        TextView todo;
+    public class ViewHolder {
+        EditText taskEdit;
+        TextView taskView;
     }
+
+
 
 	@Override
 	public View getView(int position, View view, ViewGroup parent) {
-        final ViewHolder holder;
+
         if (view == null) {
             holder = new ViewHolder();
-            view = inflater.inflate(R.layout.atom_pay_list_item, null);
+            view = inflater.inflate(R.layout.task_list_item, null);
             // Locate the TextViews in listview_item.xml
-            holder.todo = (TextView) view.findViewById(R.id.todo_comment);
+            holder.taskEdit = (EditText) view.findViewById(R.id.edit_task_item);
+            holder.taskView = (TextView) view.findViewById(R.id.view_task_item);
+
+
+//            holder.editTask.setEnabled(true);
+//            holder.editTask.setClickable(true);
             view.setTag(holder);
         } else {
             holder = (ViewHolder) view.getTag();
         }
         // Capture position and set to the TextViews
-        holder.todo.setText(items.get(position).getName());
+        holder.taskEdit.setText(items.get(position).getName());
+        holder.taskView.setText(items.get(position).getName());
         return view;
 	}
 
@@ -60,7 +71,7 @@ public class TaskListAdapter extends ArrayAdapter<Task> {
 
 	public static class TaskListHolder {
 		Task atomPayment;
-		TextView name;
+		EditText name;
 		//TextView value;
 		Button removePaymentButton;
 	}
@@ -80,26 +91,6 @@ public class TaskListAdapter extends ArrayAdapter<Task> {
 			public void afterTextChanged(Editable s) { }
 		});
 	}
-
-//	private void setValueTextListeners(final TaskListHolder holder) {
-//		holder.value.addTextChangedListener(new TextWatcher() {
-//
-//			@Override
-//			public void onTextChanged(CharSequence s, int start, int before, int count) {
-//				try{
-//					holder.atomPayment.setValue(Double.parseDouble(s.toString()));
-//				}catch (NumberFormatException e) {
-//					Log.e(LOG_TAG, "error reading double value: " + s.toString());
-//				}
-//			}
-//
-//			@Override
-//			public void beforeTextChanged(CharSequence s, int start, int count, int after) { }
-//
-//			@Override
-//			public void afterTextChanged(Editable s) { }
-//		});
-//	}
 
     public void toggleSelection(int position) {
         selectView(position, !mSelectedItemsIds.get(position));
