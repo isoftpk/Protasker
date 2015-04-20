@@ -1143,64 +1143,76 @@ containing a value of this type.
         public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f050005;
     }
     public static final class color {
-        public static final int abc_background_cache_hint_selector_material_dark=0x7f060031;
-        public static final int abc_background_cache_hint_selector_material_light=0x7f060032;
+        public static final int abc_background_cache_hint_selector_material_dark=0x7f06003d;
+        public static final int abc_background_cache_hint_selector_material_light=0x7f06003e;
         public static final int abc_input_method_navigation_guard=0x7f060000;
-        public static final int abc_primary_text_disable_only_material_dark=0x7f060033;
-        public static final int abc_primary_text_disable_only_material_light=0x7f060034;
-        public static final int abc_primary_text_material_dark=0x7f060035;
-        public static final int abc_primary_text_material_light=0x7f060036;
-        public static final int abc_search_url_text=0x7f060037;
+        public static final int abc_primary_text_disable_only_material_dark=0x7f06003f;
+        public static final int abc_primary_text_disable_only_material_light=0x7f060040;
+        public static final int abc_primary_text_material_dark=0x7f060041;
+        public static final int abc_primary_text_material_light=0x7f060042;
+        public static final int abc_search_url_text=0x7f060043;
         public static final int abc_search_url_text_normal=0x7f060001;
         public static final int abc_search_url_text_pressed=0x7f060002;
         public static final int abc_search_url_text_selected=0x7f060003;
-        public static final int abc_secondary_text_material_dark=0x7f060038;
-        public static final int abc_secondary_text_material_light=0x7f060039;
+        public static final int abc_secondary_text_material_dark=0x7f060044;
+        public static final int abc_secondary_text_material_light=0x7f060045;
         public static final int accent_material_dark=0x7f060004;
         public static final int accent_material_light=0x7f060005;
-        public static final int background_floating_material_dark=0x7f060006;
-        public static final int background_floating_material_light=0x7f060007;
-        public static final int background_material_dark=0x7f060008;
-        public static final int background_material_light=0x7f060009;
-        public static final int bright_foreground_disabled_material_dark=0x7f06000a;
-        public static final int bright_foreground_disabled_material_light=0x7f06000b;
-        public static final int bright_foreground_inverse_material_dark=0x7f06000c;
-        public static final int bright_foreground_inverse_material_light=0x7f06000d;
-        public static final int bright_foreground_material_dark=0x7f06000e;
-        public static final int bright_foreground_material_light=0x7f06000f;
-        public static final int button_material_dark=0x7f060010;
-        public static final int button_material_light=0x7f060011;
-        public static final int dim_foreground_disabled_material_dark=0x7f060012;
-        public static final int dim_foreground_disabled_material_light=0x7f060013;
-        public static final int dim_foreground_material_dark=0x7f060014;
-        public static final int dim_foreground_material_light=0x7f060015;
-        public static final int highlighted_text_material_dark=0x7f060016;
-        public static final int highlighted_text_material_light=0x7f060017;
-        public static final int hint_foreground_material_dark=0x7f060018;
-        public static final int hint_foreground_material_light=0x7f060019;
-        public static final int link_text_material_dark=0x7f06001a;
-        public static final int link_text_material_light=0x7f06001b;
-        public static final int material_blue_grey_800=0x7f06001c;
-        public static final int material_blue_grey_900=0x7f06001d;
-        public static final int material_blue_grey_950=0x7f06001e;
-        public static final int material_deep_teal_200=0x7f06001f;
-        public static final int material_deep_teal_500=0x7f060020;
-        public static final int primary_dark_material_dark=0x7f060021;
-        public static final int primary_dark_material_light=0x7f060022;
-        public static final int primary_material_dark=0x7f060023;
-        public static final int primary_material_light=0x7f060024;
-        public static final int primary_text_default_material_dark=0x7f060025;
-        public static final int primary_text_default_material_light=0x7f060026;
-        public static final int primary_text_disabled_material_dark=0x7f060027;
-        public static final int primary_text_disabled_material_light=0x7f060028;
-        public static final int ripple_material_dark=0x7f060029;
-        public static final int ripple_material_light=0x7f06002a;
-        public static final int secondary_text_default_material_dark=0x7f06002b;
-        public static final int secondary_text_default_material_light=0x7f06002c;
-        public static final int secondary_text_disabled_material_dark=0x7f06002d;
-        public static final int secondary_text_disabled_material_light=0x7f06002e;
-        public static final int switch_thumb_normal_material_dark=0x7f06002f;
-        public static final int switch_thumb_normal_material_light=0x7f060030;
+        public static final int action_bar_background=0x7f060006;
+        public static final int action_bar_context_background=0x7f060007;
+        public static final int background_floating_material_dark=0x7f060008;
+        public static final int background_floating_material_light=0x7f060009;
+        public static final int background_material_dark=0x7f06000a;
+        public static final int background_material_light=0x7f06000b;
+        public static final int black=0x7f06000c;
+        public static final int bright_foreground_disabled_material_dark=0x7f06000d;
+        public static final int bright_foreground_disabled_material_light=0x7f06000e;
+        public static final int bright_foreground_inverse_material_dark=0x7f06000f;
+        public static final int bright_foreground_inverse_material_light=0x7f060010;
+        public static final int bright_foreground_material_dark=0x7f060011;
+        public static final int bright_foreground_material_light=0x7f060012;
+        public static final int button_material_dark=0x7f060013;
+        public static final int button_material_light=0x7f060014;
+        public static final int dim_foreground_disabled_material_dark=0x7f060015;
+        public static final int dim_foreground_disabled_material_light=0x7f060016;
+        public static final int dim_foreground_material_dark=0x7f060017;
+        public static final int dim_foreground_material_light=0x7f060018;
+        public static final int gray_light=0x7f060019;
+        public static final int highlighted_text_material_dark=0x7f06001a;
+        public static final int highlighted_text_material_light=0x7f06001b;
+        public static final int hint_foreground_material_dark=0x7f06001c;
+        public static final int hint_foreground_material_light=0x7f06001d;
+        public static final int link_text_material_dark=0x7f06001e;
+        public static final int link_text_material_light=0x7f06001f;
+        public static final int main_color_gray=0x7f060020;
+        public static final int main_color_gray_dk=0x7f060021;
+        public static final int main_color_gray_lt=0x7f060022;
+        public static final int main_color_green=0x7f060023;
+        public static final int material_blue_grey_800=0x7f060024;
+        public static final int material_blue_grey_900=0x7f060025;
+        public static final int material_blue_grey_950=0x7f060026;
+        public static final int material_deep_teal_200=0x7f060027;
+        public static final int material_deep_teal_500=0x7f060028;
+        public static final int pressed_styled=0x7f060029;
+        public static final int primary_dark_material_dark=0x7f06002a;
+        public static final int primary_dark_material_light=0x7f06002b;
+        public static final int primary_material_dark=0x7f06002c;
+        public static final int primary_material_light=0x7f06002d;
+        public static final int primary_text_default_material_dark=0x7f06002e;
+        public static final int primary_text_default_material_light=0x7f06002f;
+        public static final int primary_text_disabled_material_dark=0x7f060030;
+        public static final int primary_text_disabled_material_light=0x7f060031;
+        public static final int ripple_material_dark=0x7f060032;
+        public static final int ripple_material_light=0x7f060033;
+        public static final int secondary_text_default_material_dark=0x7f060034;
+        public static final int secondary_text_default_material_light=0x7f060035;
+        public static final int secondary_text_disabled_material_dark=0x7f060036;
+        public static final int secondary_text_disabled_material_light=0x7f060037;
+        public static final int switch_thumb_normal_material_dark=0x7f060038;
+        public static final int switch_thumb_normal_material_light=0x7f060039;
+        public static final int transparent=0x7f06003a;
+        public static final int white=0x7f06003b;
+        public static final int white_smoke=0x7f06003c;
     }
     public static final class dimen {
         public static final int abc_action_bar_default_height_material=0x7f070000;
@@ -1251,79 +1263,105 @@ containing a value of this type.
         public static final int dialog_fixed_width_minor=0x7f07002d;
         public static final int disabled_alpha_material_dark=0x7f07002e;
         public static final int disabled_alpha_material_light=0x7f07002f;
-        public static final int width_button=0x7f070030;
+        public static final int pad_10dp=0x7f070030;
+        public static final int pad_15dp=0x7f070031;
+        public static final int pad_20dp=0x7f070032;
+        public static final int pad_30dp=0x7f070033;
+        public static final int pad_5dp=0x7f070034;
+        public static final int pad_chat_item=0x7f070035;
+        public static final int pad_chat_item1=0x7f070036;
+        public static final int txt_12sp=0x7f070037;
+        public static final int txt_13sp=0x7f070038;
+        public static final int txt_14sp=0x7f070039;
+        public static final int txt_15sp=0x7f07003a;
+        public static final int txt_16sp=0x7f07003b;
+        public static final int txt_18sp=0x7f07003c;
+        public static final int txt_20sp=0x7f07003d;
+        public static final int txt_7sp=0x7f07003e;
+        public static final int width_button=0x7f07003f;
     }
     public static final class drawable {
-        public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;
-        public static final int abc_btn_check_material=0x7f020001;
-        public static final int abc_btn_check_to_on_mtrl_000=0x7f020002;
-        public static final int abc_btn_check_to_on_mtrl_015=0x7f020003;
-        public static final int abc_btn_default_mtrl_shape=0x7f020004;
-        public static final int abc_btn_radio_material=0x7f020005;
-        public static final int abc_btn_radio_to_on_mtrl_000=0x7f020006;
-        public static final int abc_btn_radio_to_on_mtrl_015=0x7f020007;
-        public static final int abc_btn_rating_star_off_mtrl_alpha=0x7f020008;
-        public static final int abc_btn_rating_star_on_mtrl_alpha=0x7f020009;
-        public static final int abc_btn_switch_to_on_mtrl_00001=0x7f02000a;
-        public static final int abc_btn_switch_to_on_mtrl_00012=0x7f02000b;
-        public static final int abc_cab_background_internal_bg=0x7f02000c;
-        public static final int abc_cab_background_top_material=0x7f02000d;
-        public static final int abc_cab_background_top_mtrl_alpha=0x7f02000e;
-        public static final int abc_edit_text_material=0x7f02000f;
-        public static final int abc_ic_ab_back_mtrl_am_alpha=0x7f020010;
-        public static final int abc_ic_clear_mtrl_alpha=0x7f020011;
-        public static final int abc_ic_commit_search_api_mtrl_alpha=0x7f020012;
-        public static final int abc_ic_go_search_api_mtrl_alpha=0x7f020013;
-        public static final int abc_ic_menu_copy_mtrl_am_alpha=0x7f020014;
-        public static final int abc_ic_menu_cut_mtrl_alpha=0x7f020015;
-        public static final int abc_ic_menu_moreoverflow_mtrl_alpha=0x7f020016;
-        public static final int abc_ic_menu_paste_mtrl_am_alpha=0x7f020017;
-        public static final int abc_ic_menu_selectall_mtrl_alpha=0x7f020018;
-        public static final int abc_ic_menu_share_mtrl_alpha=0x7f020019;
-        public static final int abc_ic_search_api_mtrl_alpha=0x7f02001a;
-        public static final int abc_ic_voice_search_api_mtrl_alpha=0x7f02001b;
-        public static final int abc_item_background_holo_dark=0x7f02001c;
-        public static final int abc_item_background_holo_light=0x7f02001d;
-        public static final int abc_list_divider_mtrl_alpha=0x7f02001e;
-        public static final int abc_list_focused_holo=0x7f02001f;
-        public static final int abc_list_longpressed_holo=0x7f020020;
-        public static final int abc_list_pressed_holo_dark=0x7f020021;
-        public static final int abc_list_pressed_holo_light=0x7f020022;
-        public static final int abc_list_selector_background_transition_holo_dark=0x7f020023;
-        public static final int abc_list_selector_background_transition_holo_light=0x7f020024;
-        public static final int abc_list_selector_disabled_holo_dark=0x7f020025;
-        public static final int abc_list_selector_disabled_holo_light=0x7f020026;
-        public static final int abc_list_selector_holo_dark=0x7f020027;
-        public static final int abc_list_selector_holo_light=0x7f020028;
-        public static final int abc_menu_hardkey_panel_mtrl_mult=0x7f020029;
-        public static final int abc_popup_background_mtrl_mult=0x7f02002a;
-        public static final int abc_ratingbar_full_material=0x7f02002b;
-        public static final int abc_spinner_mtrl_am_alpha=0x7f02002c;
-        public static final int abc_spinner_textfield_background_material=0x7f02002d;
-        public static final int abc_switch_thumb_material=0x7f02002e;
-        public static final int abc_switch_track_mtrl_alpha=0x7f02002f;
-        public static final int abc_tab_indicator_material=0x7f020030;
-        public static final int abc_tab_indicator_mtrl_alpha=0x7f020031;
-        public static final int abc_textfield_activated_mtrl_alpha=0x7f020032;
-        public static final int abc_textfield_default_mtrl_alpha=0x7f020033;
-        public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020034;
-        public static final int abc_textfield_search_default_mtrl_alpha=0x7f020035;
-        public static final int abc_textfield_search_material=0x7f020036;
-        public static final int add_button_normal=0x7f020037;
-        public static final int add_button_pressed=0x7f020038;
-        public static final int add_button_selector=0x7f020039;
-        public static final int del_button_draw=0x7f02003a;
-        public static final int del_button_normal=0x7f02003b;
-        public static final int del_button_pressed=0x7f02003c;
-        public static final int del_button_selector=0x7f02003d;
-        public static final int ic_launcher=0x7f02003e;
-        public static final int square_edittext=0x7f02003f;
-        public static final int square_edittext_selected=0x7f020040;
-        public static final int square_edittext_selector=0x7f020041;
+        public static final int ab_solid_styled=0x7f020000;
+        public static final int abc_ab_share_pack_mtrl_alpha=0x7f020001;
+        public static final int abc_btn_check_material=0x7f020002;
+        public static final int abc_btn_check_to_on_mtrl_000=0x7f020003;
+        public static final int abc_btn_check_to_on_mtrl_015=0x7f020004;
+        public static final int abc_btn_default_mtrl_shape=0x7f020005;
+        public static final int abc_btn_radio_material=0x7f020006;
+        public static final int abc_btn_radio_to_on_mtrl_000=0x7f020007;
+        public static final int abc_btn_radio_to_on_mtrl_015=0x7f020008;
+        public static final int abc_btn_rating_star_off_mtrl_alpha=0x7f020009;
+        public static final int abc_btn_rating_star_on_mtrl_alpha=0x7f02000a;
+        public static final int abc_btn_switch_to_on_mtrl_00001=0x7f02000b;
+        public static final int abc_btn_switch_to_on_mtrl_00012=0x7f02000c;
+        public static final int abc_cab_background_internal_bg=0x7f02000d;
+        public static final int abc_cab_background_top_material=0x7f02000e;
+        public static final int abc_cab_background_top_mtrl_alpha=0x7f02000f;
+        public static final int abc_edit_text_material=0x7f020010;
+        public static final int abc_ic_ab_back_mtrl_am_alpha=0x7f020011;
+        public static final int abc_ic_clear_mtrl_alpha=0x7f020012;
+        public static final int abc_ic_commit_search_api_mtrl_alpha=0x7f020013;
+        public static final int abc_ic_go_search_api_mtrl_alpha=0x7f020014;
+        public static final int abc_ic_menu_copy_mtrl_am_alpha=0x7f020015;
+        public static final int abc_ic_menu_cut_mtrl_alpha=0x7f020016;
+        public static final int abc_ic_menu_moreoverflow_mtrl_alpha=0x7f020017;
+        public static final int abc_ic_menu_paste_mtrl_am_alpha=0x7f020018;
+        public static final int abc_ic_menu_selectall_mtrl_alpha=0x7f020019;
+        public static final int abc_ic_menu_share_mtrl_alpha=0x7f02001a;
+        public static final int abc_ic_search_api_mtrl_alpha=0x7f02001b;
+        public static final int abc_ic_voice_search_api_mtrl_alpha=0x7f02001c;
+        public static final int abc_item_background_holo_dark=0x7f02001d;
+        public static final int abc_item_background_holo_light=0x7f02001e;
+        public static final int abc_list_divider_mtrl_alpha=0x7f02001f;
+        public static final int abc_list_focused_holo=0x7f020020;
+        public static final int abc_list_longpressed_holo=0x7f020021;
+        public static final int abc_list_pressed_holo_dark=0x7f020022;
+        public static final int abc_list_pressed_holo_light=0x7f020023;
+        public static final int abc_list_selector_background_transition_holo_dark=0x7f020024;
+        public static final int abc_list_selector_background_transition_holo_light=0x7f020025;
+        public static final int abc_list_selector_disabled_holo_dark=0x7f020026;
+        public static final int abc_list_selector_disabled_holo_light=0x7f020027;
+        public static final int abc_list_selector_holo_dark=0x7f020028;
+        public static final int abc_list_selector_holo_light=0x7f020029;
+        public static final int abc_menu_hardkey_panel_mtrl_mult=0x7f02002a;
+        public static final int abc_popup_background_mtrl_mult=0x7f02002b;
+        public static final int abc_ratingbar_full_material=0x7f02002c;
+        public static final int abc_spinner_mtrl_am_alpha=0x7f02002d;
+        public static final int abc_spinner_textfield_background_material=0x7f02002e;
+        public static final int abc_switch_thumb_material=0x7f02002f;
+        public static final int abc_switch_track_mtrl_alpha=0x7f020030;
+        public static final int abc_tab_indicator_material=0x7f020031;
+        public static final int abc_tab_indicator_mtrl_alpha=0x7f020032;
+        public static final int abc_textfield_activated_mtrl_alpha=0x7f020033;
+        public static final int abc_textfield_default_mtrl_alpha=0x7f020034;
+        public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020035;
+        public static final int abc_textfield_search_default_mtrl_alpha=0x7f020036;
+        public static final int abc_textfield_search_material=0x7f020037;
+        public static final int add_button_normal=0x7f020038;
+        public static final int add_button_pressed=0x7f020039;
+        public static final int add_button_selector=0x7f02003a;
+        public static final int android_action_add=0x7f02003b;
+        public static final int android_action_cancel=0x7f02003c;
+        public static final int android_action_ok=0x7f02003d;
+        public static final int del_button_draw=0x7f02003e;
+        public static final int del_button_normal=0x7f02003f;
+        public static final int del_button_pressed=0x7f020040;
+        public static final int del_button_selector=0x7f020041;
+        public static final int edittext_bg=0x7f020042;
+        public static final int ic_action_discard=0x7f020043;
+        public static final int ic_action_new=0x7f020044;
+        public static final int ic_action_remove=0x7f020045;
+        public static final int ic_launcher=0x7f020046;
+        public static final int ic_send=0x7f020047;
+        public static final int list_focused_styled=0x7f020048;
+        public static final int pressed_background=0x7f020049;
+        public static final int selectable_background=0x7f02004a;
+        public static final int square_edittext=0x7f02004b;
+        public static final int square_edittext_selected=0x7f02004c;
+        public static final int square_edittext_selector=0x7f02004d;
     }
     public static final class id {
-        public static final int EnterTask_TaskList=0x7f080040;
-        public static final int EnterTask_addTask=0x7f08003f;
+        public static final int EnterTask_TaskList=0x7f08003f;
         public static final int action_bar=0x7f080031;
         public static final int action_bar_activity_content=0x7f080000;
         public static final int action_bar_container=0x7f080030;
@@ -1332,6 +1370,7 @@ containing a value of this type.
         public static final int action_bar_subtitle=0x7f08001f;
         public static final int action_bar_title=0x7f08001e;
         public static final int action_context_bar=0x7f080032;
+        public static final int action_delete=0x7f080043;
         public static final int action_menu_divider=0x7f080002;
         public static final int action_menu_presenter=0x7f080003;
         public static final int action_mode_bar=0x7f08002e;
@@ -1340,16 +1379,15 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f080021;
         public static final int always=0x7f080016;
         public static final int beginning=0x7f080013;
+        public static final int btnSend=0x7f080041;
         public static final int checkbox=0x7f080029;
         public static final int collapseActionView=0x7f080017;
         public static final int decor_content_parent=0x7f08002f;
         public static final int default_activity_button=0x7f080024;
-        public static final int delete=0x7f080043;
         public static final int dialog=0x7f08001b;
         public static final int disableHome=0x7f08000c;
         public static final int dropdown=0x7f08001c;
         public static final int edit_query=0x7f080033;
-        public static final int edit_task_item=0x7f080042;
         public static final int end=0x7f080014;
         public static final int expand_activities_button=0x7f080022;
         public static final int expanded_menu=0x7f080028;
@@ -1360,6 +1398,7 @@ containing a value of this type.
         public static final int image=0x7f080023;
         public static final int listMode=0x7f080009;
         public static final int list_item=0x7f080025;
+        public static final int menu_action_new=0x7f080044;
         public static final int middle=0x7f080015;
         public static final int never=0x7f080019;
         public static final int none=0x7f08000e;
@@ -1385,9 +1424,10 @@ containing a value of this type.
         public static final int submit_area=0x7f08003c;
         public static final int tabMode=0x7f08000b;
         public static final int title=0x7f080027;
+        public static final int txt=0x7f080040;
         public static final int up=0x7f080008;
         public static final int useLogo=0x7f080012;
-        public static final int view_task_item=0x7f080041;
+        public static final int view_task_item=0x7f080042;
         public static final int withText=0x7f08001a;
         public static final int wrap_content=0x7f08001d;
     }
@@ -1425,6 +1465,7 @@ containing a value of this type.
     }
     public static final class menu {
         public static final int activity_main=0x7f0c0000;
+        public static final int main=0x7f0c0001;
     }
     public static final class string {
         public static final int EnterTask_TextView_ZeroValue=0x7f0a0000;
@@ -1448,198 +1489,198 @@ containing a value of this type.
         public static final int abc_toolbar_collapse_description=0x7f0a0012;
         public static final int app_name=0x7f0a0013;
         public static final int cab_delete=0x7f0a0014;
+        public static final int menu_action_new=0x7f0a0015;
+        public static final int type_msg=0x7f0a0016;
     }
     public static final class style {
         public static final int Animation_AppCompat_DropDownUp=0x7f0b0000;
-        /**  Customize your theme here. 
-         */
-        public static final int AppTheme=0x7f0b0001;
-        public static final int Base_Animation_AppCompat_DropDownUp=0x7f0b0002;
-        public static final int Base_TextAppearance_AppCompat=0x7f0b0003;
-        public static final int Base_TextAppearance_AppCompat_Body1=0x7f0b0004;
-        public static final int Base_TextAppearance_AppCompat_Body2=0x7f0b0005;
-        public static final int Base_TextAppearance_AppCompat_Button=0x7f0b0006;
-        public static final int Base_TextAppearance_AppCompat_Caption=0x7f0b0007;
-        public static final int Base_TextAppearance_AppCompat_Display1=0x7f0b0008;
-        public static final int Base_TextAppearance_AppCompat_Display2=0x7f0b0009;
-        public static final int Base_TextAppearance_AppCompat_Display3=0x7f0b000a;
-        public static final int Base_TextAppearance_AppCompat_Display4=0x7f0b000b;
-        public static final int Base_TextAppearance_AppCompat_Headline=0x7f0b000c;
-        public static final int Base_TextAppearance_AppCompat_Inverse=0x7f0b000d;
-        public static final int Base_TextAppearance_AppCompat_Large=0x7f0b000e;
-        public static final int Base_TextAppearance_AppCompat_Large_Inverse=0x7f0b000f;
-        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0b0010;
-        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0b0011;
-        public static final int Base_TextAppearance_AppCompat_Medium=0x7f0b0012;
-        public static final int Base_TextAppearance_AppCompat_Medium_Inverse=0x7f0b0013;
-        public static final int Base_TextAppearance_AppCompat_Menu=0x7f0b0014;
-        public static final int Base_TextAppearance_AppCompat_SearchResult=0x7f0b0015;
-        public static final int Base_TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0b0016;
-        public static final int Base_TextAppearance_AppCompat_SearchResult_Title=0x7f0b0017;
-        public static final int Base_TextAppearance_AppCompat_Small=0x7f0b0018;
-        public static final int Base_TextAppearance_AppCompat_Small_Inverse=0x7f0b0019;
-        public static final int Base_TextAppearance_AppCompat_Subhead=0x7f0b001a;
-        public static final int Base_TextAppearance_AppCompat_Subhead_Inverse=0x7f0b001b;
-        public static final int Base_TextAppearance_AppCompat_Title=0x7f0b001c;
-        public static final int Base_TextAppearance_AppCompat_Title_Inverse=0x7f0b001d;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0b001e;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0b001f;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0b0020;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0b0021;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0b0022;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0b0023;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0b0024;
-        public static final int Base_TextAppearance_AppCompat_Widget_DropDownItem=0x7f0b0025;
-        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0b0026;
-        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0b0027;
-        public static final int Base_TextAppearance_AppCompat_Widget_Switch=0x7f0b0028;
-        public static final int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f0b0029;
-        public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0b002a;
-        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0b002b;
-        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0b002c;
-        public static final int Base_Theme_AppCompat=0x7f0b002d;
-        public static final int Base_Theme_AppCompat_CompactMenu=0x7f0b002e;
-        public static final int Base_Theme_AppCompat_Dialog=0x7f0b002f;
-        public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f0b0030;
-        public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f0b0031;
-        public static final int Base_Theme_AppCompat_Light=0x7f0b0032;
-        public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f0b0033;
-        public static final int Base_Theme_AppCompat_Light_Dialog=0x7f0b0034;
-        public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f0b0035;
-        public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f0b0036;
-        public static final int Base_ThemeOverlay_AppCompat=0x7f0b0037;
-        public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f0b0038;
-        public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f0b0039;
-        public static final int Base_ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0b003a;
-        public static final int Base_ThemeOverlay_AppCompat_Light=0x7f0b003b;
-        public static final int Base_V11_Theme_AppCompat=0x7f0b00ed;
-        public static final int Base_V11_Theme_AppCompat_Dialog=0x7f0b00ee;
-        public static final int Base_V11_Theme_AppCompat_Light=0x7f0b00ef;
-        public static final int Base_V11_Theme_AppCompat_Light_Dialog=0x7f0b00f0;
-        public static final int Base_V14_Theme_AppCompat=0x7f0b00f1;
-        public static final int Base_V14_Theme_AppCompat_Dialog=0x7f0b00f2;
-        public static final int Base_V14_Theme_AppCompat_Light=0x7f0b00f3;
-        public static final int Base_V14_Theme_AppCompat_Light_Dialog=0x7f0b00f4;
-        public static final int Base_V21_Theme_AppCompat=0x7f0b00f5;
-        public static final int Base_V21_Theme_AppCompat_Dialog=0x7f0b00f6;
-        public static final int Base_V21_Theme_AppCompat_Light=0x7f0b00f7;
-        public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f0b00f8;
-        public static final int Base_V7_Theme_AppCompat=0x7f0b003c;
-        public static final int Base_V7_Theme_AppCompat_Dialog=0x7f0b003d;
-        public static final int Base_V7_Theme_AppCompat_Light=0x7f0b003e;
-        public static final int Base_Widget_AppCompat_ActionBar=0x7f0b003f;
-        public static final int Base_Widget_AppCompat_ActionBar_Solid=0x7f0b0040;
-        public static final int Base_Widget_AppCompat_ActionBar_TabBar=0x7f0b0041;
-        public static final int Base_Widget_AppCompat_ActionBar_TabText=0x7f0b0042;
-        public static final int Base_Widget_AppCompat_ActionBar_TabView=0x7f0b0043;
-        public static final int Base_Widget_AppCompat_ActionButton=0x7f0b0044;
-        public static final int Base_Widget_AppCompat_ActionButton_CloseMode=0x7f0b0045;
-        public static final int Base_Widget_AppCompat_ActionButton_Overflow=0x7f0b0046;
-        public static final int Base_Widget_AppCompat_ActionMode=0x7f0b0047;
-        public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f0b0048;
-        public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f0b0049;
-        public static final int Base_Widget_AppCompat_Button=0x7f0b004a;
-        public static final int Base_Widget_AppCompat_Button_Small=0x7f0b004b;
-        public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f0b004c;
-        public static final int Base_Widget_AppCompat_DrawerArrowToggle=0x7f0b004d;
-        public static final int Base_Widget_AppCompat_DrawerArrowToggle_Common=0x7f0b004e;
-        public static final int Base_Widget_AppCompat_DropDownItem_Spinner=0x7f0b004f;
-        public static final int Base_Widget_AppCompat_EditText=0x7f0b0050;
-        public static final int Base_Widget_AppCompat_Light_ActionBar=0x7f0b0051;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_Solid=0x7f0b0052;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabBar=0x7f0b0053;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText=0x7f0b0054;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f0b0055;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabView=0x7f0b0056;
-        public static final int Base_Widget_AppCompat_Light_PopupMenu=0x7f0b0057;
-        public static final int Base_Widget_AppCompat_Light_PopupMenu_Overflow=0x7f0b0058;
-        public static final int Base_Widget_AppCompat_ListPopupWindow=0x7f0b0059;
-        public static final int Base_Widget_AppCompat_ListView_DropDown=0x7f0b005a;
-        public static final int Base_Widget_AppCompat_ListView_Menu=0x7f0b005b;
-        public static final int Base_Widget_AppCompat_PopupMenu=0x7f0b005c;
-        public static final int Base_Widget_AppCompat_PopupMenu_Overflow=0x7f0b005d;
-        public static final int Base_Widget_AppCompat_PopupWindow=0x7f0b005e;
-        public static final int Base_Widget_AppCompat_ProgressBar=0x7f0b005f;
-        public static final int Base_Widget_AppCompat_ProgressBar_Horizontal=0x7f0b0060;
-        public static final int Base_Widget_AppCompat_RatingBar=0x7f0b0061;
-        public static final int Base_Widget_AppCompat_SearchView=0x7f0b0062;
-        public static final int Base_Widget_AppCompat_Spinner=0x7f0b0063;
-        public static final int Base_Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f0b0064;
-        public static final int Base_Widget_AppCompat_Spinner_Underlined=0x7f0b0065;
-        public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f0b0066;
-        public static final int Base_Widget_AppCompat_Toolbar=0x7f0b0067;
-        public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f0b0068;
-        public static final int Platform_AppCompat=0x7f0b0069;
-        public static final int Platform_AppCompat_Dialog=0x7f0b006a;
-        public static final int Platform_AppCompat_Light=0x7f0b006b;
-        public static final int Platform_AppCompat_Light_Dialog=0x7f0b006c;
-        public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f0b006d;
-        public static final int RtlOverlay_Widget_AppCompat_ActionButton_CloseMode=0x7f0b006e;
-        public static final int RtlOverlay_Widget_AppCompat_ActionButton_Overflow=0x7f0b006f;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f0b0070;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f0b0071;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f0b0072;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f0b0073;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f0b0074;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f0b0075;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f0b0076;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f0b0077;
-        public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f0b0078;
-        public static final int TextAppearance_AppCompat=0x7f0b0079;
-        public static final int TextAppearance_AppCompat_Body1=0x7f0b007a;
-        public static final int TextAppearance_AppCompat_Body2=0x7f0b007b;
-        public static final int TextAppearance_AppCompat_Button=0x7f0b007c;
-        public static final int TextAppearance_AppCompat_Caption=0x7f0b007d;
-        public static final int TextAppearance_AppCompat_Display1=0x7f0b007e;
-        public static final int TextAppearance_AppCompat_Display2=0x7f0b007f;
-        public static final int TextAppearance_AppCompat_Display3=0x7f0b0080;
-        public static final int TextAppearance_AppCompat_Display4=0x7f0b0081;
-        public static final int TextAppearance_AppCompat_Headline=0x7f0b0082;
-        public static final int TextAppearance_AppCompat_Inverse=0x7f0b0083;
-        public static final int TextAppearance_AppCompat_Large=0x7f0b0084;
-        public static final int TextAppearance_AppCompat_Large_Inverse=0x7f0b0085;
-        public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f0b0086;
-        public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f0b0087;
-        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0b0088;
-        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0b0089;
-        public static final int TextAppearance_AppCompat_Medium=0x7f0b008a;
-        public static final int TextAppearance_AppCompat_Medium_Inverse=0x7f0b008b;
-        public static final int TextAppearance_AppCompat_Menu=0x7f0b008c;
-        public static final int TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0b008d;
-        public static final int TextAppearance_AppCompat_SearchResult_Title=0x7f0b008e;
-        public static final int TextAppearance_AppCompat_Small=0x7f0b008f;
-        public static final int TextAppearance_AppCompat_Small_Inverse=0x7f0b0090;
-        public static final int TextAppearance_AppCompat_Subhead=0x7f0b0091;
-        public static final int TextAppearance_AppCompat_Subhead_Inverse=0x7f0b0092;
-        public static final int TextAppearance_AppCompat_Title=0x7f0b0093;
-        public static final int TextAppearance_AppCompat_Title_Inverse=0x7f0b0094;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0b0095;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0b0096;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0b0097;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0b0098;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0b0099;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0b009a;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f0b009b;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0b009c;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f0b009d;
-        public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f0b009e;
-        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0b009f;
-        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0b00a0;
-        public static final int TextAppearance_AppCompat_Widget_Switch=0x7f0b00a1;
-        public static final int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f0b00a2;
-        public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0b00a3;
-        public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0b00a4;
-        public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0b00a5;
-        public static final int Theme_AppCompat=0x7f0b00a6;
-        public static final int Theme_AppCompat_CompactMenu=0x7f0b00a7;
-        public static final int Theme_AppCompat_Dialog=0x7f0b00a8;
-        public static final int Theme_AppCompat_DialogWhenLarge=0x7f0b00a9;
-        public static final int Theme_AppCompat_Light=0x7f0b00aa;
-        public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0b00ab;
-        public static final int Theme_AppCompat_Light_Dialog=0x7f0b00ac;
-        public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0b00ad;
-        public static final int Theme_AppCompat_Light_NoActionBar=0x7f0b00ae;
-        public static final int Theme_AppCompat_NoActionBar=0x7f0b00af;
+        public static final int Base_Animation_AppCompat_DropDownUp=0x7f0b0001;
+        public static final int Base_TextAppearance_AppCompat=0x7f0b0002;
+        public static final int Base_TextAppearance_AppCompat_Body1=0x7f0b0003;
+        public static final int Base_TextAppearance_AppCompat_Body2=0x7f0b0004;
+        public static final int Base_TextAppearance_AppCompat_Button=0x7f0b0005;
+        public static final int Base_TextAppearance_AppCompat_Caption=0x7f0b0006;
+        public static final int Base_TextAppearance_AppCompat_Display1=0x7f0b0007;
+        public static final int Base_TextAppearance_AppCompat_Display2=0x7f0b0008;
+        public static final int Base_TextAppearance_AppCompat_Display3=0x7f0b0009;
+        public static final int Base_TextAppearance_AppCompat_Display4=0x7f0b000a;
+        public static final int Base_TextAppearance_AppCompat_Headline=0x7f0b000b;
+        public static final int Base_TextAppearance_AppCompat_Inverse=0x7f0b000c;
+        public static final int Base_TextAppearance_AppCompat_Large=0x7f0b000d;
+        public static final int Base_TextAppearance_AppCompat_Large_Inverse=0x7f0b000e;
+        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0b000f;
+        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0b0010;
+        public static final int Base_TextAppearance_AppCompat_Medium=0x7f0b0011;
+        public static final int Base_TextAppearance_AppCompat_Medium_Inverse=0x7f0b0012;
+        public static final int Base_TextAppearance_AppCompat_Menu=0x7f0b0013;
+        public static final int Base_TextAppearance_AppCompat_SearchResult=0x7f0b0014;
+        public static final int Base_TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0b0015;
+        public static final int Base_TextAppearance_AppCompat_SearchResult_Title=0x7f0b0016;
+        public static final int Base_TextAppearance_AppCompat_Small=0x7f0b0017;
+        public static final int Base_TextAppearance_AppCompat_Small_Inverse=0x7f0b0018;
+        public static final int Base_TextAppearance_AppCompat_Subhead=0x7f0b0019;
+        public static final int Base_TextAppearance_AppCompat_Subhead_Inverse=0x7f0b001a;
+        public static final int Base_TextAppearance_AppCompat_Title=0x7f0b001b;
+        public static final int Base_TextAppearance_AppCompat_Title_Inverse=0x7f0b001c;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0b001d;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0b001e;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0b001f;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0b0020;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0b0021;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0b0022;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0b0023;
+        public static final int Base_TextAppearance_AppCompat_Widget_DropDownItem=0x7f0b0024;
+        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0b0025;
+        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0b0026;
+        public static final int Base_TextAppearance_AppCompat_Widget_Switch=0x7f0b0027;
+        public static final int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f0b0028;
+        public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0b0029;
+        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0b002a;
+        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0b002b;
+        public static final int Base_Theme_AppCompat=0x7f0b002c;
+        public static final int Base_Theme_AppCompat_CompactMenu=0x7f0b002d;
+        public static final int Base_Theme_AppCompat_Dialog=0x7f0b002e;
+        public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f0b002f;
+        public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f0b0030;
+        public static final int Base_Theme_AppCompat_Light=0x7f0b0031;
+        public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f0b0032;
+        public static final int Base_Theme_AppCompat_Light_Dialog=0x7f0b0033;
+        public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f0b0034;
+        public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f0b0035;
+        public static final int Base_ThemeOverlay_AppCompat=0x7f0b0036;
+        public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f0b0037;
+        public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f0b0038;
+        public static final int Base_ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0b0039;
+        public static final int Base_ThemeOverlay_AppCompat_Light=0x7f0b003a;
+        public static final int Base_V11_Theme_AppCompat=0x7f0b00f0;
+        public static final int Base_V11_Theme_AppCompat_Dialog=0x7f0b00f1;
+        public static final int Base_V11_Theme_AppCompat_Light=0x7f0b00f2;
+        public static final int Base_V11_Theme_AppCompat_Light_Dialog=0x7f0b00f3;
+        public static final int Base_V14_Theme_AppCompat=0x7f0b00f4;
+        public static final int Base_V14_Theme_AppCompat_Dialog=0x7f0b00f5;
+        public static final int Base_V14_Theme_AppCompat_Light=0x7f0b00f6;
+        public static final int Base_V14_Theme_AppCompat_Light_Dialog=0x7f0b00f7;
+        public static final int Base_V21_Theme_AppCompat=0x7f0b00f8;
+        public static final int Base_V21_Theme_AppCompat_Dialog=0x7f0b00f9;
+        public static final int Base_V21_Theme_AppCompat_Light=0x7f0b00fa;
+        public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f0b00fb;
+        public static final int Base_V7_Theme_AppCompat=0x7f0b003b;
+        public static final int Base_V7_Theme_AppCompat_Dialog=0x7f0b003c;
+        public static final int Base_V7_Theme_AppCompat_Light=0x7f0b003d;
+        public static final int Base_Widget_AppCompat_ActionBar=0x7f0b003e;
+        public static final int Base_Widget_AppCompat_ActionBar_Solid=0x7f0b003f;
+        public static final int Base_Widget_AppCompat_ActionBar_TabBar=0x7f0b0040;
+        public static final int Base_Widget_AppCompat_ActionBar_TabText=0x7f0b0041;
+        public static final int Base_Widget_AppCompat_ActionBar_TabView=0x7f0b0042;
+        public static final int Base_Widget_AppCompat_ActionButton=0x7f0b0043;
+        public static final int Base_Widget_AppCompat_ActionButton_CloseMode=0x7f0b0044;
+        public static final int Base_Widget_AppCompat_ActionButton_Overflow=0x7f0b0045;
+        public static final int Base_Widget_AppCompat_ActionMode=0x7f0b0046;
+        public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f0b0047;
+        public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f0b0048;
+        public static final int Base_Widget_AppCompat_Button=0x7f0b0049;
+        public static final int Base_Widget_AppCompat_Button_Small=0x7f0b004a;
+        public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f0b004b;
+        public static final int Base_Widget_AppCompat_DrawerArrowToggle=0x7f0b004c;
+        public static final int Base_Widget_AppCompat_DrawerArrowToggle_Common=0x7f0b004d;
+        public static final int Base_Widget_AppCompat_DropDownItem_Spinner=0x7f0b004e;
+        public static final int Base_Widget_AppCompat_EditText=0x7f0b004f;
+        public static final int Base_Widget_AppCompat_Light_ActionBar=0x7f0b0050;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_Solid=0x7f0b0051;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabBar=0x7f0b0052;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText=0x7f0b0053;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f0b0054;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabView=0x7f0b0055;
+        public static final int Base_Widget_AppCompat_Light_PopupMenu=0x7f0b0056;
+        public static final int Base_Widget_AppCompat_Light_PopupMenu_Overflow=0x7f0b0057;
+        public static final int Base_Widget_AppCompat_ListPopupWindow=0x7f0b0058;
+        public static final int Base_Widget_AppCompat_ListView_DropDown=0x7f0b0059;
+        public static final int Base_Widget_AppCompat_ListView_Menu=0x7f0b005a;
+        public static final int Base_Widget_AppCompat_PopupMenu=0x7f0b005b;
+        public static final int Base_Widget_AppCompat_PopupMenu_Overflow=0x7f0b005c;
+        public static final int Base_Widget_AppCompat_PopupWindow=0x7f0b005d;
+        public static final int Base_Widget_AppCompat_ProgressBar=0x7f0b005e;
+        public static final int Base_Widget_AppCompat_ProgressBar_Horizontal=0x7f0b005f;
+        public static final int Base_Widget_AppCompat_RatingBar=0x7f0b0060;
+        public static final int Base_Widget_AppCompat_SearchView=0x7f0b0061;
+        public static final int Base_Widget_AppCompat_Spinner=0x7f0b0062;
+        public static final int Base_Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f0b0063;
+        public static final int Base_Widget_AppCompat_Spinner_Underlined=0x7f0b0064;
+        public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f0b0065;
+        public static final int Base_Widget_AppCompat_Toolbar=0x7f0b0066;
+        public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f0b0067;
+        public static final int Platform_AppCompat=0x7f0b0068;
+        public static final int Platform_AppCompat_Dialog=0x7f0b0069;
+        public static final int Platform_AppCompat_Light=0x7f0b006a;
+        public static final int Platform_AppCompat_Light_Dialog=0x7f0b006b;
+        public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f0b006c;
+        public static final int RtlOverlay_Widget_AppCompat_ActionButton_CloseMode=0x7f0b006d;
+        public static final int RtlOverlay_Widget_AppCompat_ActionButton_Overflow=0x7f0b006e;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f0b006f;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f0b0070;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f0b0071;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f0b0072;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f0b0073;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f0b0074;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f0b0075;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f0b0076;
+        public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f0b0077;
+        public static final int TextAppearance_AppCompat=0x7f0b0078;
+        public static final int TextAppearance_AppCompat_Body1=0x7f0b0079;
+        public static final int TextAppearance_AppCompat_Body2=0x7f0b007a;
+        public static final int TextAppearance_AppCompat_Button=0x7f0b007b;
+        public static final int TextAppearance_AppCompat_Caption=0x7f0b007c;
+        public static final int TextAppearance_AppCompat_Display1=0x7f0b007d;
+        public static final int TextAppearance_AppCompat_Display2=0x7f0b007e;
+        public static final int TextAppearance_AppCompat_Display3=0x7f0b007f;
+        public static final int TextAppearance_AppCompat_Display4=0x7f0b0080;
+        public static final int TextAppearance_AppCompat_Headline=0x7f0b0081;
+        public static final int TextAppearance_AppCompat_Inverse=0x7f0b0082;
+        public static final int TextAppearance_AppCompat_Large=0x7f0b0083;
+        public static final int TextAppearance_AppCompat_Large_Inverse=0x7f0b0084;
+        public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f0b0085;
+        public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f0b0086;
+        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0b0087;
+        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0b0088;
+        public static final int TextAppearance_AppCompat_Medium=0x7f0b0089;
+        public static final int TextAppearance_AppCompat_Medium_Inverse=0x7f0b008a;
+        public static final int TextAppearance_AppCompat_Menu=0x7f0b008b;
+        public static final int TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0b008c;
+        public static final int TextAppearance_AppCompat_SearchResult_Title=0x7f0b008d;
+        public static final int TextAppearance_AppCompat_Small=0x7f0b008e;
+        public static final int TextAppearance_AppCompat_Small_Inverse=0x7f0b008f;
+        public static final int TextAppearance_AppCompat_Subhead=0x7f0b0090;
+        public static final int TextAppearance_AppCompat_Subhead_Inverse=0x7f0b0091;
+        public static final int TextAppearance_AppCompat_Title=0x7f0b0092;
+        public static final int TextAppearance_AppCompat_Title_Inverse=0x7f0b0093;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0b0094;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0b0095;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0b0096;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0b0097;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0b0098;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0b0099;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f0b009a;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0b009b;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f0b009c;
+        public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f0b009d;
+        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0b009e;
+        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0b009f;
+        public static final int TextAppearance_AppCompat_Widget_Switch=0x7f0b00a0;
+        public static final int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f0b00a1;
+        public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0b00a2;
+        public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0b00a3;
+        public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0b00a4;
+        public static final int Theme_AppCompat=0x7f0b00a5;
+        public static final int Theme_AppCompat_CompactMenu=0x7f0b00a6;
+        public static final int Theme_AppCompat_Dialog=0x7f0b00a7;
+        public static final int Theme_AppCompat_DialogWhenLarge=0x7f0b00a8;
+        public static final int Theme_AppCompat_Light=0x7f0b00a9;
+        public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0b00aa;
+        public static final int Theme_AppCompat_Light_Dialog=0x7f0b00ab;
+        public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0b00ac;
+        public static final int Theme_AppCompat_Light_NoActionBar=0x7f0b00ad;
+        public static final int Theme_AppCompat_NoActionBar=0x7f0b00ae;
+        public static final int Theme_Styled=0x7f0b00af;
         public static final int ThemeOverlay_AppCompat=0x7f0b00b0;
         public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0b00b1;
         public static final int ThemeOverlay_AppCompat_Dark=0x7f0b00b2;
@@ -1701,6 +1742,9 @@ containing a value of this type.
         public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f0b00ea;
         public static final int Widget_AppCompat_Toolbar=0x7f0b00eb;
         public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f0b00ec;
+        public static final int Widget_Styled_ActionBar=0x7f0b00ed;
+        public static final int btn=0x7f0b00ee;
+        public static final int edittext_msg=0x7f0b00ef;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
@@ -1709,33 +1753,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background io.isoft.protask:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit io.isoft.protask:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked io.isoft.protask:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd io.isoft.protask:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft io.isoft.protask:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight io.isoft.protask:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart io.isoft.protask:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout io.isoft.protask:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions io.isoft.protask:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider io.isoft.protask:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation io.isoft.protask:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height io.isoft.protask:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll io.isoft.protask:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator io.isoft.protask:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout io.isoft.protask:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon io.isoft.protask:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle io.isoft.protask:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding io.isoft.protask:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo io.isoft.protask:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode io.isoft.protask:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme io.isoft.protask:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding io.isoft.protask:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle io.isoft.protask:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle io.isoft.protask:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle io.isoft.protask:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title io.isoft.protask:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle io.isoft.protask:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background io.isoft.protasker:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit io.isoft.protasker:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked io.isoft.protasker:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd io.isoft.protasker:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft io.isoft.protasker:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight io.isoft.protasker:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart io.isoft.protasker:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout io.isoft.protasker:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions io.isoft.protasker:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider io.isoft.protasker:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation io.isoft.protasker:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height io.isoft.protasker:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll io.isoft.protasker:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator io.isoft.protasker:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout io.isoft.protasker:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon io.isoft.protasker:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle io.isoft.protasker:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding io.isoft.protasker:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo io.isoft.protasker:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode io.isoft.protasker:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme io.isoft.protasker:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding io.isoft.protasker:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle io.isoft.protasker:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle io.isoft.protasker:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle io.isoft.protasker:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title io.isoft.protasker:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle io.isoft.protasker:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -1775,17 +1819,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f010071
         };
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#background}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:background
+          @attr name io.isoft.protasker:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1793,11 +1837,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.isoft.protask:backgroundSplit
+          @attr name io.isoft.protasker:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1805,11 +1849,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.isoft.protask:backgroundStacked
+          @attr name io.isoft.protasker:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1821,11 +1865,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:contentInsetEnd
+          @attr name io.isoft.protasker:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1837,11 +1881,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:contentInsetLeft
+          @attr name io.isoft.protasker:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1853,11 +1897,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:contentInsetRight
+          @attr name io.isoft.protasker:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1869,21 +1913,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:contentInsetStart
+          @attr name io.isoft.protasker:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:customNavigationLayout
+          @attr name io.isoft.protasker:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1901,21 +1945,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name io.isoft.protask:displayOptions
+          @attr name io.isoft.protasker:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#divider}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:divider
+          @attr name io.isoft.protasker:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#elevation}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1927,11 +1971,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:elevation
+          @attr name io.isoft.protasker:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#height}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1943,11 +1987,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:height
+          @attr name io.isoft.protasker:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1957,51 +2001,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:hideOnContentScroll
+          @attr name io.isoft.protasker:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:homeAsUpIndicator
+          @attr name io.isoft.protasker:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:homeLayout
+          @attr name io.isoft.protasker:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#icon}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:icon
+          @attr name io.isoft.protasker:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:indeterminateProgressStyle
+          @attr name io.isoft.protasker:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2013,21 +2057,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:itemPadding
+          @attr name io.isoft.protasker:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#logo}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:logo
+          @attr name io.isoft.protasker:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2041,21 +2085,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name io.isoft.protask:navigationMode
+          @attr name io.isoft.protasker:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:popupTheme
+          @attr name io.isoft.protasker:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2067,21 +2111,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:progressBarPadding
+          @attr name io.isoft.protasker:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:progressBarStyle
+          @attr name io.isoft.protasker:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2091,21 +2135,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:subtitle
+          @attr name io.isoft.protasker:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:subtitleTextStyle
+          @attr name io.isoft.protasker:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#title}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2115,17 +2159,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:title
+          @attr name io.isoft.protasker:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:titleTextStyle
+          @attr name io.isoft.protasker:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -2177,12 +2221,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background io.isoft.protask:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit io.isoft.protask:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout io.isoft.protask:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height io.isoft.protask:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle io.isoft.protask:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle io.isoft.protask:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background io.isoft.protasker:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit io.isoft.protasker:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout io.isoft.protasker:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height io.isoft.protasker:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle io.isoft.protasker:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle io.isoft.protasker:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -2196,17 +2240,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#background}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:background
+          @attr name io.isoft.protasker:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2214,21 +2258,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.isoft.protask:backgroundSplit
+          @attr name io.isoft.protasker:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:closeItemLayout
+          @attr name io.isoft.protasker:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#height}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2240,27 +2284,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:height
+          @attr name io.isoft.protasker:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:subtitleTextStyle
+          @attr name io.isoft.protasker:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:titleTextStyle
+          @attr name io.isoft.protasker:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -2269,8 +2313,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable io.isoft.protask:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount io.isoft.protask:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable io.isoft.protasker:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount io.isoft.protasker:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -2279,17 +2323,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:expandActivityOverflowButtonDrawable
+          @attr name io.isoft.protasker:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2299,7 +2343,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:initialActivityCount
+          @attr name io.isoft.protasker:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a CompatTextView.
@@ -2308,7 +2352,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CompatTextView_textAllCaps io.isoft.protask:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompatTextView_textAllCaps io.isoft.protasker:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #CompatTextView_textAllCaps
          */
@@ -2316,14 +2360,14 @@ containing a value of this type.
             0x7f01001f
         };
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#textAllCaps}
           attribute's value can be found in the {@link #CompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name io.isoft.protask:textAllCaps
+          @attr name io.isoft.protasker:textAllCaps
         */
         public static final int CompatTextView_textAllCaps = 0;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -2332,14 +2376,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barSize io.isoft.protask:barSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color io.isoft.protask:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize io.isoft.protask:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars io.isoft.protask:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize io.isoft.protask:middleBarArrowSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars io.isoft.protask:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness io.isoft.protask:thickness}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize io.isoft.protask:topBottomBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barSize io.isoft.protasker:barSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color io.isoft.protasker:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize io.isoft.protasker:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars io.isoft.protasker:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize io.isoft.protasker:middleBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars io.isoft.protasker:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness io.isoft.protasker:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize io.isoft.protasker:topBottomBarArrowSize}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_barSize
            @see #DrawerArrowToggle_color
@@ -2355,7 +2399,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010024, 0x7f010025, 0x7f010026, 0x7f010027
         };
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#barSize}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#barSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2367,11 +2411,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:barSize
+          @attr name io.isoft.protasker:barSize
         */
         public static final int DrawerArrowToggle_barSize = 6;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#color}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2382,11 +2426,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:color
+          @attr name io.isoft.protasker:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2398,11 +2442,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:drawableSize
+          @attr name io.isoft.protasker:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2414,11 +2458,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:gapBetweenBars
+          @attr name io.isoft.protasker:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#middleBarArrowSize}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#middleBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2430,11 +2474,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:middleBarArrowSize
+          @attr name io.isoft.protasker:middleBarArrowSize
         */
         public static final int DrawerArrowToggle_middleBarArrowSize = 5;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2444,11 +2488,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:spinBars
+          @attr name io.isoft.protasker:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#thickness}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2460,11 +2504,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:thickness
+          @attr name io.isoft.protasker:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#topBottomBarArrowSize}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#topBottomBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2476,7 +2520,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:topBottomBarArrowSize
+          @attr name io.isoft.protasker:topBottomBarArrowSize
         */
         public static final int DrawerArrowToggle_topBottomBarArrowSize = 4;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -2490,10 +2534,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider io.isoft.protask:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding io.isoft.protask:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild io.isoft.protask:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers io.isoft.protask:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider io.isoft.protasker:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding io.isoft.protasker:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild io.isoft.protasker:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers io.isoft.protasker:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -2541,17 +2585,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#divider}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:divider
+          @attr name io.isoft.protasker:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -2563,11 +2607,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:dividerPadding
+          @attr name io.isoft.protasker:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -2577,11 +2621,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:measureWithLargestChild
+          @attr name io.isoft.protasker:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -2596,7 +2640,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name io.isoft.protask:showDividers
+          @attr name io.isoft.protasker:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -2735,9 +2779,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout io.isoft.protask:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass io.isoft.protask:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass io.isoft.protask:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout io.isoft.protasker:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass io.isoft.protasker:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass io.isoft.protasker:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -2751,7 +2795,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction io.isoft.protask:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction io.isoft.protasker:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -2779,17 +2823,17 @@ containing a value of this type.
             0x7f01002e
         };
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionLayout
+          @attr name io.isoft.protasker:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2799,11 +2843,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:actionProviderClass
+          @attr name io.isoft.protasker:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2813,7 +2857,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:actionViewClass
+          @attr name io.isoft.protasker:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -2895,7 +2939,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2911,7 +2955,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name io.isoft.protask:showAsAction
+          @attr name io.isoft.protasker:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -2927,7 +2971,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing io.isoft.protask:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing io.isoft.protasker:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -2985,7 +3029,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -2995,7 +3039,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:preserveIconSpacing
+          @attr name io.isoft.protasker:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -3005,7 +3049,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor io.isoft.protask:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor io.isoft.protasker:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -3020,7 +3064,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -3030,7 +3074,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:overlapAnchor
+          @attr name io.isoft.protasker:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -3039,7 +3083,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor io.isoft.protask:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor io.isoft.protasker:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -3047,7 +3091,7 @@ containing a value of this type.
             0x7f010031
         };
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -3057,7 +3101,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:state_above_anchor
+          @attr name io.isoft.protasker:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
@@ -3070,17 +3114,17 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon io.isoft.protask:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon io.isoft.protask:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon io.isoft.protask:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault io.isoft.protask:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout io.isoft.protask:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground io.isoft.protask:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint io.isoft.protask:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon io.isoft.protask:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground io.isoft.protask:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout io.isoft.protask:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon io.isoft.protask:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon io.isoft.protasker:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon io.isoft.protasker:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon io.isoft.protasker:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault io.isoft.protasker:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout io.isoft.protasker:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground io.isoft.protasker:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint io.isoft.protasker:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon io.isoft.protasker:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground io.isoft.protasker:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout io.isoft.protasker:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon io.isoft.protasker:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -3129,37 +3173,37 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:closeIcon
+          @attr name io.isoft.protasker:closeIcon
         */
         public static final int SearchView_closeIcon = 7;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:commitIcon
+          @attr name io.isoft.protasker:commitIcon
         */
         public static final int SearchView_commitIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:goIcon
+          @attr name io.isoft.protasker:goIcon
         */
         public static final int SearchView_goIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3169,31 +3213,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:iconifiedByDefault
+          @attr name io.isoft.protasker:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#layout}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:layout
+          @attr name io.isoft.protasker:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:queryBackground
+          @attr name io.isoft.protasker:queryBackground
         */
         public static final int SearchView_queryBackground = 13;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3203,47 +3247,47 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:queryHint
+          @attr name io.isoft.protasker:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:searchIcon
+          @attr name io.isoft.protasker:searchIcon
         */
         public static final int SearchView_searchIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:submitBackground
+          @attr name io.isoft.protasker:submitBackground
         */
         public static final int SearchView_submitBackground = 14;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:suggestionRowLayout
+          @attr name io.isoft.protasker:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 12;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:voiceIcon
+          @attr name io.isoft.protasker:voiceIcon
         */
         public static final int SearchView_voiceIcon = 10;
         /** Attributes that can be used with a Spinner.
@@ -3259,10 +3303,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled io.isoft.protask:disableChildrenWhenDisabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupPromptView io.isoft.protask:popupPromptView}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_prompt io.isoft.protask:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spinnerMode io.isoft.protask:spinnerMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled io.isoft.protasker:disableChildrenWhenDisabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupPromptView io.isoft.protasker:popupPromptView}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_prompt io.isoft.protasker:prompt}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spinnerMode io.isoft.protasker:spinnerMode}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_background
            @see #Spinner_android_dropDownHorizontalOffset
@@ -3324,7 +3368,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_popupBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#disableChildrenWhenDisabled}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#disableChildrenWhenDisabled}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -3334,31 +3378,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:disableChildrenWhenDisabled
+          @attr name io.isoft.protasker:disableChildrenWhenDisabled
         */
         public static final int Spinner_disableChildrenWhenDisabled = 10;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#popupPromptView}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#popupPromptView}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:popupPromptView
+          @attr name io.isoft.protasker:popupPromptView
         */
         public static final int Spinner_popupPromptView = 9;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#prompt}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#prompt}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:prompt
+          @attr name io.isoft.protasker:prompt
         */
         public static final int Spinner_prompt = 7;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#spinnerMode}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#spinnerMode}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -3371,7 +3415,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>dialog</code></td><td>0</td><td></td></tr>
 <tr><td><code>dropdown</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name io.isoft.protask:spinnerMode
+          @attr name io.isoft.protasker:spinnerMode
         */
         public static final int Spinner_spinnerMode = 8;
         /** Attributes that can be used with a SwitchCompat.
@@ -3383,13 +3427,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText io.isoft.protask:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack io.isoft.protask:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth io.isoft.protask:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding io.isoft.protask:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance io.isoft.protask:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding io.isoft.protask:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track io.isoft.protask:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText io.isoft.protasker:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack io.isoft.protasker:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth io.isoft.protasker:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding io.isoft.protasker:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance io.isoft.protasker:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding io.isoft.protasker:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track io.isoft.protasker:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -3426,7 +3470,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#showText}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3436,11 +3480,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:showText
+          @attr name io.isoft.protasker:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3450,11 +3494,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:splitTrack
+          @attr name io.isoft.protasker:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3466,11 +3510,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:switchMinWidth
+          @attr name io.isoft.protasker:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3482,21 +3526,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:switchPadding
+          @attr name io.isoft.protasker:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:switchTextAppearance
+          @attr name io.isoft.protasker:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3508,17 +3552,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:thumbTextPadding
+          @attr name io.isoft.protasker:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#track}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:track
+          @attr name io.isoft.protasker:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a SwitchCompatTextAppearance.
@@ -3529,7 +3573,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SwitchCompatTextAppearance_android_textColor android:textColor}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompatTextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompatTextAppearance_textAllCaps io.isoft.protask:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompatTextAppearance_textAllCaps io.isoft.protasker:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #SwitchCompatTextAppearance_android_textColor
            @see #SwitchCompatTextAppearance_android_textSize
@@ -3551,14 +3595,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompatTextAppearance_android_textSize = 0;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#textAllCaps}
           attribute's value can be found in the {@link #SwitchCompatTextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name io.isoft.protask:textAllCaps
+          @attr name io.isoft.protasker:textAllCaps
         */
         public static final int SwitchCompatTextAppearance_textAllCaps = 2;
         /** Attributes that can be used with a Theme.
@@ -3567,90 +3611,90 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider io.isoft.protask:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground io.isoft.protask:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme io.isoft.protask:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize io.isoft.protask:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle io.isoft.protask:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle io.isoft.protask:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle io.isoft.protask:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle io.isoft.protask:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle io.isoft.protask:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme io.isoft.protask:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme io.isoft.protask:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle io.isoft.protask:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle io.isoft.protask:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance io.isoft.protask:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor io.isoft.protask:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground io.isoft.protask:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle io.isoft.protask:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable io.isoft.protask:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable io.isoft.protask:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable io.isoft.protask:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable io.isoft.protask:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable io.isoft.protask:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle io.isoft.protask:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable io.isoft.protask:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable io.isoft.protask:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground io.isoft.protask:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle io.isoft.protask:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable io.isoft.protask:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle io.isoft.protask:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle io.isoft.protask:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle io.isoft.protask:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider io.isoft.protasker:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground io.isoft.protasker:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme io.isoft.protasker:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize io.isoft.protasker:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle io.isoft.protasker:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle io.isoft.protasker:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle io.isoft.protasker:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle io.isoft.protasker:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle io.isoft.protasker:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme io.isoft.protasker:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme io.isoft.protasker:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle io.isoft.protasker:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle io.isoft.protasker:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance io.isoft.protasker:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor io.isoft.protasker:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground io.isoft.protasker:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle io.isoft.protasker:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable io.isoft.protasker:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable io.isoft.protasker:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable io.isoft.protasker:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable io.isoft.protasker:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable io.isoft.protasker:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle io.isoft.protasker:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable io.isoft.protasker:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable io.isoft.protasker:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground io.isoft.protasker:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle io.isoft.protasker:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable io.isoft.protasker:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle io.isoft.protasker:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle io.isoft.protasker:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle io.isoft.protasker:activityChooserViewStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle io.isoft.protask:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle io.isoft.protask:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent io.isoft.protask:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal io.isoft.protask:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated io.isoft.protask:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight io.isoft.protask:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal io.isoft.protask:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary io.isoft.protask:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark io.isoft.protask:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal io.isoft.protask:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal io.isoft.protask:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical io.isoft.protask:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle io.isoft.protask:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight io.isoft.protask:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground io.isoft.protask:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor io.isoft.protask:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator io.isoft.protask:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator io.isoft.protask:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle io.isoft.protask:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight io.isoft.protask:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge io.isoft.protask:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall io.isoft.protask:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft io.isoft.protask:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight io.isoft.protask:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground io.isoft.protask:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme io.isoft.protask:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth io.isoft.protask:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle io.isoft.protask:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle io.isoft.protask:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle io.isoft.protask:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground io.isoft.protask:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless io.isoft.protask:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle io.isoft.protask:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle io.isoft.protask:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle io.isoft.protask:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu io.isoft.protask:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem io.isoft.protask:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall io.isoft.protask:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle io.isoft.protask:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle io.isoft.protask:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu io.isoft.protask:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl io.isoft.protask:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle io.isoft.protask:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle io.isoft.protask:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar io.isoft.protask:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay io.isoft.protask:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay io.isoft.protask:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor io.isoft.protask:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor io.isoft.protask:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor io.isoft.protask:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor io.isoft.protask:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle io.isoft.protasker:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle io.isoft.protasker:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent io.isoft.protasker:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal io.isoft.protasker:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated io.isoft.protasker:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight io.isoft.protasker:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal io.isoft.protasker:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary io.isoft.protasker:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark io.isoft.protasker:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal io.isoft.protasker:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal io.isoft.protasker:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical io.isoft.protasker:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle io.isoft.protasker:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight io.isoft.protasker:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground io.isoft.protasker:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor io.isoft.protasker:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator io.isoft.protasker:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator io.isoft.protasker:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle io.isoft.protasker:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight io.isoft.protasker:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge io.isoft.protasker:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall io.isoft.protasker:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft io.isoft.protasker:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight io.isoft.protasker:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground io.isoft.protasker:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme io.isoft.protasker:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth io.isoft.protasker:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle io.isoft.protasker:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle io.isoft.protasker:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle io.isoft.protasker:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground io.isoft.protasker:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless io.isoft.protasker:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle io.isoft.protasker:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle io.isoft.protasker:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle io.isoft.protasker:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu io.isoft.protasker:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem io.isoft.protasker:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall io.isoft.protasker:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle io.isoft.protasker:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle io.isoft.protasker:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu io.isoft.protasker:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl io.isoft.protasker:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle io.isoft.protasker:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle io.isoft.protasker:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar io.isoft.protasker:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay io.isoft.protasker:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay io.isoft.protasker:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor io.isoft.protasker:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor io.isoft.protasker:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor io.isoft.protasker:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor io.isoft.protasker:windowFixedWidthMinor}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -3761,37 +3805,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010096, 0x7f010097, 0x7f010098, 0x7f010099
         };
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionBarDivider
+          @attr name io.isoft.protasker:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 20;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionBarItemBackground
+          @attr name io.isoft.protasker:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 21;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionBarPopupTheme
+          @attr name io.isoft.protasker:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 14;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -3811,111 +3855,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name io.isoft.protask:actionBarSize
+          @attr name io.isoft.protasker:actionBarSize
         */
         public static final int Theme_actionBarSize = 19;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionBarSplitStyle
+          @attr name io.isoft.protasker:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionBarStyle
+          @attr name io.isoft.protasker:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionBarTabBarStyle
+          @attr name io.isoft.protasker:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 10;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionBarTabStyle
+          @attr name io.isoft.protasker:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 9;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionBarTabTextStyle
+          @attr name io.isoft.protasker:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 11;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionBarTheme
+          @attr name io.isoft.protasker:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionBarWidgetTheme
+          @attr name io.isoft.protasker:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 18;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionButtonStyle
+          @attr name io.isoft.protasker:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 44;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionDropDownStyle
+          @attr name io.isoft.protasker:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionMenuTextAppearance
+          @attr name io.isoft.protasker:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 22;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -3923,167 +3967,167 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.isoft.protask:actionMenuTextColor
+          @attr name io.isoft.protasker:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 23;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModeBackground
+          @attr name io.isoft.protasker:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 26;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModeCloseButtonStyle
+          @attr name io.isoft.protasker:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 25;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModeCloseDrawable
+          @attr name io.isoft.protasker:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 28;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModeCopyDrawable
+          @attr name io.isoft.protasker:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 30;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModeCutDrawable
+          @attr name io.isoft.protasker:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 29;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModeFindDrawable
+          @attr name io.isoft.protasker:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModePasteDrawable
+          @attr name io.isoft.protasker:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModePopupWindowStyle
+          @attr name io.isoft.protasker:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 36;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModeSelectAllDrawable
+          @attr name io.isoft.protasker:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModeShareDrawable
+          @attr name io.isoft.protasker:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModeSplitBackground
+          @attr name io.isoft.protasker:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 27;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModeStyle
+          @attr name io.isoft.protasker:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 24;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionModeWebSearchDrawable
+          @attr name io.isoft.protasker:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionOverflowButtonStyle
+          @attr name io.isoft.protasker:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:actionOverflowMenuStyle
+          @attr name io.isoft.protasker:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:activityChooserViewStyle
+          @attr name io.isoft.protasker:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 51;
         /**
@@ -4099,27 +4143,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:buttonBarButtonStyle
+          @attr name io.isoft.protasker:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:buttonBarStyle
+          @attr name io.isoft.protasker:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4130,11 +4174,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:colorAccent
+          @attr name io.isoft.protasker:colorAccent
         */
         public static final int Theme_colorAccent = 78;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4145,11 +4189,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:colorButtonNormal
+          @attr name io.isoft.protasker:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 82;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4160,11 +4204,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:colorControlActivated
+          @attr name io.isoft.protasker:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 80;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4175,11 +4219,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:colorControlHighlight
+          @attr name io.isoft.protasker:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 81;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4190,11 +4234,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:colorControlNormal
+          @attr name io.isoft.protasker:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 79;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4205,11 +4249,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:colorPrimary
+          @attr name io.isoft.protasker:colorPrimary
         */
         public static final int Theme_colorPrimary = 76;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4220,11 +4264,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:colorPrimaryDark
+          @attr name io.isoft.protasker:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 77;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4235,41 +4279,41 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:colorSwitchThumbNormal
+          @attr name io.isoft.protasker:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 83;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:dividerHorizontal
+          @attr name io.isoft.protasker:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 50;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:dividerVertical
+          @attr name io.isoft.protasker:dividerVertical
         */
         public static final int Theme_dividerVertical = 49;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:dropDownListViewStyle
+          @attr name io.isoft.protasker:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 68;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4281,21 +4325,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:dropdownListPreferredItemHeight
+          @attr name io.isoft.protasker:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 40;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:editTextBackground
+          @attr name io.isoft.protasker:editTextBackground
         */
         public static final int Theme_editTextBackground = 57;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4303,41 +4347,41 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.isoft.protask:editTextColor
+          @attr name io.isoft.protasker:editTextColor
         */
         public static final int Theme_editTextColor = 56;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:homeAsUpIndicator
+          @attr name io.isoft.protasker:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 43;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:listChoiceBackgroundIndicator
+          @attr name io.isoft.protasker:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 75;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:listPopupWindowStyle
+          @attr name io.isoft.protasker:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4349,11 +4393,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:listPreferredItemHeight
+          @attr name io.isoft.protasker:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 63;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4365,11 +4409,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:listPreferredItemHeightLarge
+          @attr name io.isoft.protasker:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 65;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4381,11 +4425,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:listPreferredItemHeightSmall
+          @attr name io.isoft.protasker:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 64;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4397,11 +4441,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:listPreferredItemPaddingLeft
+          @attr name io.isoft.protasker:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 66;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4413,31 +4457,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:listPreferredItemPaddingRight
+          @attr name io.isoft.protasker:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 67;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:panelBackground
+          @attr name io.isoft.protasker:panelBackground
         */
         public static final int Theme_panelBackground = 72;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:panelMenuListTheme
+          @attr name io.isoft.protasker:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 74;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4449,151 +4493,151 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:panelMenuListWidth
+          @attr name io.isoft.protasker:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 73;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:popupMenuStyle
+          @attr name io.isoft.protasker:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:popupWindowStyle
+          @attr name io.isoft.protasker:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:searchViewStyle
+          @attr name io.isoft.protasker:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:selectableItemBackground
+          @attr name io.isoft.protasker:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 47;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:selectableItemBackgroundBorderless
+          @attr name io.isoft.protasker:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 48;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:spinnerDropDownItemStyle
+          @attr name io.isoft.protasker:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 42;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:spinnerStyle
+          @attr name io.isoft.protasker:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 41;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:switchStyle
+          @attr name io.isoft.protasker:switchStyle
         */
         public static final int Theme_switchStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:textAppearanceLargePopupMenu
+          @attr name io.isoft.protasker:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 37;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:textAppearanceListItem
+          @attr name io.isoft.protasker:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 70;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:textAppearanceListItemSmall
+          @attr name io.isoft.protasker:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:textAppearanceSearchResultSubtitle
+          @attr name io.isoft.protasker:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 60;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:textAppearanceSearchResultTitle
+          @attr name io.isoft.protasker:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 59;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:textAppearanceSmallPopupMenu
+          @attr name io.isoft.protasker:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 38;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4601,31 +4645,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.isoft.protask:textColorSearchUrl
+          @attr name io.isoft.protasker:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 61;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:toolbarNavigationButtonStyle
+          @attr name io.isoft.protasker:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 53;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:toolbarStyle
+          @attr name io.isoft.protasker:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4635,11 +4679,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:windowActionBar
+          @attr name io.isoft.protasker:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4649,11 +4693,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:windowActionBarOverlay
+          @attr name io.isoft.protasker:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 3;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4663,11 +4707,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:windowActionModeOverlay
+          @attr name io.isoft.protasker:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4682,11 +4726,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:windowFixedHeightMajor
+          @attr name io.isoft.protasker:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 8;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4701,11 +4745,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:windowFixedHeightMinor
+          @attr name io.isoft.protasker:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 6;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4720,11 +4764,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:windowFixedWidthMajor
+          @attr name io.isoft.protasker:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 5;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4739,7 +4783,7 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:windowFixedWidthMinor
+          @attr name io.isoft.protasker:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 7;
         /** Attributes that can be used with a Toolbar.
@@ -4750,26 +4794,26 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription io.isoft.protask:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon io.isoft.protask:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd io.isoft.protask:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft io.isoft.protask:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight io.isoft.protask:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart io.isoft.protask:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight io.isoft.protask:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription io.isoft.protask:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon io.isoft.protask:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme io.isoft.protask:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle io.isoft.protask:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance io.isoft.protask:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_theme io.isoft.protask:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title io.isoft.protask:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom io.isoft.protask:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd io.isoft.protask:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart io.isoft.protask:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop io.isoft.protask:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins io.isoft.protask:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance io.isoft.protask:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription io.isoft.protasker:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon io.isoft.protasker:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd io.isoft.protasker:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft io.isoft.protasker:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight io.isoft.protasker:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart io.isoft.protasker:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight io.isoft.protasker:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription io.isoft.protasker:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon io.isoft.protasker:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme io.isoft.protasker:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle io.isoft.protasker:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance io.isoft.protasker:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_theme io.isoft.protasker:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title io.isoft.protasker:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom io.isoft.protasker:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd io.isoft.protasker:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart io.isoft.protasker:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop io.isoft.protasker:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins io.isoft.protasker:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance io.isoft.protasker:titleTextAppearance}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -4815,7 +4859,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4825,21 +4869,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:collapseContentDescription
+          @attr name io.isoft.protasker:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:collapseIcon
+          @attr name io.isoft.protasker:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4851,11 +4895,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:contentInsetEnd
+          @attr name io.isoft.protasker:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 5;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4867,11 +4911,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:contentInsetLeft
+          @attr name io.isoft.protasker:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 6;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4883,11 +4927,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:contentInsetRight
+          @attr name io.isoft.protasker:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 7;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4899,11 +4943,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:contentInsetStart
+          @attr name io.isoft.protasker:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 4;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4915,11 +4959,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:maxButtonHeight
+          @attr name io.isoft.protasker:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 16;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4929,31 +4973,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:navigationContentDescription
+          @attr name io.isoft.protasker:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:navigationIcon
+          @attr name io.isoft.protasker:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:popupTheme
+          @attr name io.isoft.protasker:popupTheme
         */
         public static final int Toolbar_popupTheme = 8;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4963,31 +5007,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:subtitle
+          @attr name io.isoft.protasker:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:subtitleTextAppearance
+          @attr name io.isoft.protasker:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#theme}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#theme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:theme
+          @attr name io.isoft.protasker:theme
         */
         public static final int Toolbar_theme = 17;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#title}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4997,11 +5041,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:title
+          @attr name io.isoft.protasker:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5013,11 +5057,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:titleMarginBottom
+          @attr name io.isoft.protasker:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 15;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5029,11 +5073,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:titleMarginEnd
+          @attr name io.isoft.protasker:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5045,11 +5089,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:titleMarginStart
+          @attr name io.isoft.protasker:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 12;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5061,11 +5105,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:titleMarginTop
+          @attr name io.isoft.protasker:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 14;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5077,17 +5121,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:titleMargins
+          @attr name io.isoft.protasker:titleMargins
         */
         public static final int Toolbar_titleMargins = 11;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.isoft.protask:titleTextAppearance
+          @attr name io.isoft.protasker:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 9;
         /** Attributes that can be used with a View.
@@ -5097,8 +5141,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd io.isoft.protask:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart io.isoft.protask:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd io.isoft.protasker:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart io.isoft.protasker:paddingStart}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_paddingEnd
@@ -5114,7 +5158,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int View_android_focusable = 0;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -5126,11 +5170,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:paddingEnd
+          @attr name io.isoft.protasker:paddingEnd
         */
         public static final int View_paddingEnd = 2;
         /**
-          <p>This symbol is the offset where the {@link io.isoft.protask.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link io.isoft.protasker.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -5142,7 +5186,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.isoft.protask:paddingStart
+          @attr name io.isoft.protasker:paddingStart
         */
         public static final int View_paddingStart = 1;
         /** Attributes that can be used with a ViewStubCompat.

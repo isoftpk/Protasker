@@ -48,7 +48,6 @@ public class TaskListAdapter extends ArrayAdapter<Task> {
             holder = new ViewHolder();
             view = inflater.inflate(R.layout.task_list_item, null);
             // Locate the TextViews in listview_item.xml
-            holder.taskEdit = (EditText) view.findViewById(R.id.edit_task_item);
             holder.taskView = (TextView) view.findViewById(R.id.view_task_item);
 
 
@@ -59,7 +58,6 @@ public class TaskListAdapter extends ArrayAdapter<Task> {
             holder = (ViewHolder) view.getTag();
         }
         // Capture position and set to the TextViews
-        holder.taskEdit.setText(items.get(position).getName());
         holder.taskView.setText(items.get(position).getName());
         return view;
 	}

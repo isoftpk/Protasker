@@ -6,5 +6,7 @@
     <string name="EnterTask_TextView_ZeroValue">0</string>
     <string name="EnterTask_addTask">Add Payment</string>
     <string name="cab_delete">Del</string>
+    <string name="type_msg">Type message</string>
+    <string name="menu_action_new">New Task</string>
 
 </resources>

@@ -8,13 +8,11 @@ import android.os.Bundle;
 import android.util.SparseBooleanArray;
 import android.view.ActionMode;
 import android.view.Menu;
+import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.widget.AdapterView;
 import android.widget.ListView;
-import android.widget.EditText;
-
 import android.widget.AbsListView.MultiChoiceModeListener;
 
 public class AddNewTask extends ActionBarActivity  {
@@ -29,6 +27,8 @@ public class AddNewTask extends ActionBarActivity  {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_list_view);
 
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
+
         comment = new String[] { "Task 1", "Task 2", "Task 3",
                 "Task 4", "Task 5", "Task 6", "Task 7", "Task 8",
                 "Task 9", "Task 10" };
@@ -40,10 +40,33 @@ public class AddNewTask extends ActionBarActivity  {
 
         setupListViewAdapter();
 		
-		setupAddTaskButton();
+
 	}
 
-	public void removeTaskOnClickHandler(View v) {
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.main, menu);
+
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle presses on the action bar items
+        switch (item.getItemId()) {
+            case R.id.menu_action_new:
+                listviewadapter.insert(new Task("New Task", 0), 0);
+                return true;
+
+            default:
+
+            return super.onOptionsItemSelected(item);
+        }
+    }
+
+    public void removeTaskOnClickHandler(View v) {
 		Task itemToRemove = (Task)v.getTag();
 		listviewadapter.remove(itemToRemove);
 	}
@@ -68,7 +91,7 @@ public class AddNewTask extends ActionBarActivity  {
                 // Capture total checked items
                 final int checkedCount = list.getCheckedItemCount();
                 // Set the CAB title according to total checked items
-                mode.setTitle(checkedCount + " Selected");
+                mode.setTitle(checkedCount + " Items");
                 // Calls toggleSelection method from ListViewAdapter Class
                 listviewadapter.toggleSelection(position);
             }
@@ -77,7 +100,7 @@ public class AddNewTask extends ActionBarActivity  {
             public boolean onActionItemClicked(ActionMode mode, MenuItem item) {
                 System.out.println("onActionItemClicked");
                 switch (item.getItemId()) {
-                    case R.id.delete:
+                    case R.id.action_delete:
                         // Calls getSelectedIds method from ListViewAdapter Class
                         SparseBooleanArray selected = listviewadapter.getSelectedIds();
                         // Captures all selected ids with a loop
@@ -99,6 +122,9 @@ public class AddNewTask extends ActionBarActivity  {
             @Override
             public boolean onCreateActionMode(ActionMode mode, Menu menu) {
                 mode.getMenuInflater().inflate(R.menu.activity_main, menu);
+
+
+
                 return true;
             }
 
@@ -119,10 +145,6 @@ public class AddNewTask extends ActionBarActivity  {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
 
-                listviewadapter.holder.taskView.setVisibility(View.INVISIBLE);
-                listviewadapter.holder.taskEdit.setVisibility(View.VISIBLE);
-
-
 
 
                 System.out.println("Task Clicked!");
@@ -130,18 +152,5 @@ public class AddNewTask extends ActionBarActivity  {
         });
 
 	}
-	
-	private void setupAddTaskButton() {
-		findViewById(R.id.EnterTask_addTask).setOnClickListener(new OnClickListener() {
-			
-			@Override
-			public void onClick(View v) {
-                System.out.println("ADD Button Click");
-				listviewadapter.insert(new Task("Add Task", 0), 0);
-			}
-		});
-	}
-
-
 
 }
